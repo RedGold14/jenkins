@@ -1,0 +1,7 @@
+sudo service jenkins stop
+
+CentOS:
+sudo yum remove jenkins
+
+Ubuntu:
+sudo apt-get remove --purge jenkins
