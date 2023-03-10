@@ -1,0 +1,1 @@
+This plug-in exposes project builds as a maven repository so the artifacts can be picked up by downstream builds or other systems.
