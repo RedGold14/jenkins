@@ -3,3 +3,7 @@ Dashboard -> Manage Jenkins -> Plugin Manager
 Updates       Available       Installed       Advanced
 
 Filter
+
+---------------------------------------------------------------------------------
+
+Instaled plugin - Enable/Disable/Uninstall
