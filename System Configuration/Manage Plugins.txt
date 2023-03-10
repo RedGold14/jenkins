@@ -1,0 +1,1 @@
+Add, remove, disable or enable plugins that can extend the functionality of Jenkins.
