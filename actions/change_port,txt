@@ -1,3 +1,16 @@
 1. Open Jenkins.xml
 2. Search --httpPort=8080 and replace the port number
 3. Restart Jenkins
+
+------------------------------------------------------------------
+
+Linux
+
+1. Open Jenkins configuration file:
+sudo nano /etc/default/jenkins
+
+2. Change port number:
+HTTP_PORT=8080
+
+3. Restart Jenkins:
+sudo systemctl restart jenkins
