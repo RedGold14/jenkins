@@ -16,5 +16,6 @@ Linux
 
 var\lib\jenkins
 
-
+### Jenkins configuration file
+/etc/default/jenkins
 
